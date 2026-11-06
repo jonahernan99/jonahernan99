@@ -1,13 +1,15 @@
 ## Hi, I'm Jonathan Hernandez 👋
 
 I'm a **software engineer** pursuing an **M.Sc. in Computer Science (Applied AI)**,
-based in **Toronto, Canada**. I build practical machine learning and NLP tools,
-with a focus on clean, tested, production-ready code.
+based in **Toronto, Canada**. I build practical AI applications, from NLP pipelines
+to LLM-powered features, with a focus on clean, tested, production-ready code.
 
 - 🎓 M.Sc. Computer Science, Applied AI (expected 2027)
 - 🔭 Currently building **[JobLens](https://github.com/jonahernan99/joblens)**, an explainable resume-to-job matching engine
-- 🌱 Learning: LLM applications, retrieval-augmented generation (RAG) and MLOps
-- 💼 **Open to** software engineering, ML engineering and applied AI roles in Toronto / Canada
+- 🌱 Deepening: LLM applications, retrieval-augmented generation (RAG), LLM evaluation and MLOps
+- 💼 **Open to** Software Engineer, ML Engineer and AI Engineer roles in Toronto / Canada
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanhbee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanhbee/)
 
 ### 🚀 Featured project
 
@@ -18,14 +20,41 @@ with a focus on clean, tested, production-ready code.
 - Transparent scoring that blends weighted skill coverage with TF-IDF similarity
 - CLI with text, Markdown and JSON output · pytest suite · CI on Python 3.10-3.12
 
-### 🛠️ Tech
+### 🛠️ Tech stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Backend, Data & MLOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 📫 Get in touch
 
-Open an issue on any of my repositories, or reach out through the contact details on my GitHub profile.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanhbee/). I'm always happy to talk about AI engineering roles in Toronto.
