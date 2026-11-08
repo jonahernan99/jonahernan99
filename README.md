@@ -4,7 +4,8 @@ I'm a **software engineer** pursuing an **M.Sc. in Computer Science (Applied AI)
 based in **Toronto, Canada**. I build practical AI applications, from NLP pipelines
 to LLM-powered features, with a focus on clean, tested, production-ready code.
 
-- 🎓 M.Sc. Computer Science, Applied AI (expected 2027)
+- 🎓 M.Sc. Computer Science, Applied AI (expected 2027) · B.Eng. Electronic Engineering, Universidad Industrial de Santander
+- 🔬 Background in deep learning research for medical imaging
 - 🔭 Currently building **[JobLens](https://github.com/jonahernan99/joblens)**, an explainable resume-to-job matching engine
 - 🌱 Deepening: LLM applications, retrieval-augmented generation (RAG), LLM evaluation and MLOps
 - 💼 **Open to** Software Engineer, ML Engineer and AI Engineer roles in Toronto / Canada
@@ -19,6 +20,15 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 - Separates a posting's *required* skills from its *nice-to-haves* (including Canadian phrasing like "is an asset")
 - Transparent scoring that blends weighted skill coverage with TF-IDF similarity
 - CLI with text, Markdown and JSON output · pytest suite · CI on Python 3.10-3.12
+
+### 🔬 Research
+
+**Lung nodule detection in CT with a multi-channel YOLO representation**: B.Eng. thesis (2023) at the BIVL²ab lab, Universidad Industrial de Santander, with Dylan Villalba, advised by Prof. Fabio Martínez and Prof. Franklin Sepúlveda. [Read the thesis (in Spanish)](https://noesis.uis.edu.co/entities/publication/4b44ab5b-d4e8-49c6-8d12-509ff69b15f4).
+
+- Adapted YOLOv5s to localize lung nodules on CT slices from LIDC-IDRI (1,187 nodules, each marked by at least 3 radiologists)
+- Benchmarked YOLOv3, YOLOv3-SPP, YOLOv5s/l/x and YOLOv7, then ran ablation studies on detection stages and anchor boxes
+- Added Eigen-CAM saliency maps to explain detections and to filter candidate nodules
+- Reached 88.0% CPM on a held-out 20% test set (sensitivity averaged from 1/8 to 8 false positives per slice): 87.3% for nodules under 8 mm and 89.5% for nodules over 8 mm
 
 ### 🛠️ Tech stack
 
