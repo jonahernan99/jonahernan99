@@ -27,8 +27,8 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 
 - Adapted YOLOv5s to localize lung nodules on CT slices from LIDC-IDRI (1,187 nodules, each marked by at least 3 radiologists)
 - Benchmarked YOLOv3, YOLOv3-SPP, YOLOv5s/l/x and YOLOv7, then ran ablation studies on detection stages and anchor boxes
-- Added Eigen-CAM saliency maps to explain detections and to filter candidate nodules
-- Reached 88.0% CPM on a held-out 20% test set (sensitivity averaged from 1/8 to 8 false positives per slice): 87.3% for nodules under 8 mm and 89.5% for nodules over 8 mm
+- Eigen-CAM saliency maps, led by Dylan Villalba, explain detections and filter candidate nodules
+- Reached 88.0% CPM on a slice-level 20% test split (sensitivity averaged from 1/8 to 8 false positives per slice): 87.3% for nodules under 8 mm and 89.5% for nodules over 8 mm
 
 ### 🛠️ Tech stack
 
