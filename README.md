@@ -10,6 +10,7 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 - 🌱 Deepening: LLM applications, retrieval-augmented generation (RAG), LLM evaluation and MLOps
 - 💼 **Open to** Software Engineer, ML Engineer and AI Engineer roles in Toronto / Canada
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jonahernan99.github.io-0F766E?style=for-the-badge)](https://jonahernan99.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanhbee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanhbee/)
 
 ### 🚀 Featured project
