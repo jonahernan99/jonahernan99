@@ -1,10 +1,10 @@
 ## Hi, I'm Jonathan Hernandez 👋
 
-I'm a **software engineer** pursuing an **M.Sc. in Computer Science (Applied AI)**,
+I'm a **software engineer** pursuing a **Master of Computer Science in Applied AI**,
 based in **Toronto, Canada**. I build practical AI applications, from NLP pipelines
 to LLM-powered features, with a focus on clean, tested, production-ready code.
 
-- 🎓 M.Sc. Computer Science, Applied AI (expected 2027) · B.Eng. Electronic Engineering, Universidad Industrial de Santander
+- 🎓 Master of Computer Science in Applied AI, University of Niagara Falls Canada (expected 2027) · B.Eng. Electronic Engineering, Universidad Industrial de Santander
 - 🔬 Background in deep learning research for medical imaging
 - 🔭 Currently building **[JobLens](https://github.com/jonahernan99/joblens)**, an explainable resume-to-job matching engine
 - 🌱 Deepening: LLM applications, retrieval-augmented generation (RAG), LLM evaluation and MLOps
