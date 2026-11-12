@@ -22,6 +22,11 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 - Transparent scoring that blends weighted skill coverage with TF-IDF similarity
 - CLI with text, Markdown and JSON output · pytest suite · CI on Python 3.10-3.12
 
+### 🧪 Also building
+
+- **[toronto-tech-job-market](https://github.com/jonahernan99/toronto-tech-job-market)**: SQL (DuckDB) analysis of a year of official Job Bank postings, 601,330 rows covering who is hiring in tech in Toronto and what they pay
+- **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)**: reimplementation of my thesis with patient-level evaluation
+
 ### 🔬 Research
 
 **Lung nodule detection in CT with a multi-channel YOLO representation**: B.Eng. thesis (2023) at the BIVL²ab lab, Universidad Industrial de Santander, with Dylan Villalba, advised by Prof. Fabio Martínez and Prof. Franklin Sepúlveda. [Read the thesis (in Spanish)](https://noesis.uis.edu.co/entities/publication/4b44ab5b-d4e8-49c6-8d12-509ff69b15f4).
