@@ -25,7 +25,7 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 ### 🧪 Also building
 
 - **[toronto-tech-job-market](https://github.com/jonahernan99/toronto-tech-job-market)**: SQL (DuckDB) analysis of a year of official Job Bank postings, 601,330 rows covering who is hiring in tech in Toronto and what they pay, with a [live dashboard](https://jonahernan99.github.io/toronto-tech-job-market/)
-- **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)**: reimplementation of my thesis with scan-level evaluation: 74.7% CPM on 88 held-out LUNA16 scans
+- **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)**: reimplementation of my thesis with scan-level evaluation: 86.1% CPM on 88 held-out LUNA16 scans with a 2.5D input, up from 74.7% with single slices
 - **[telco-churn-prediction](https://github.com/jonahernan99/telco-churn-prediction)**: churn models in scikit-learn (0.848 ROC AUC), with leakage removed and a cost analysis that picks the model from what a kept customer is worth; a revised group project from my master's
 
 ### 🔬 Research
@@ -36,7 +36,7 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 - Benchmarked YOLOv3, YOLOv3-SPP, YOLOv5s/l/x and YOLOv7, then ran ablation studies on detection stages and anchor boxes
 - Eigen-CAM saliency maps, led by Dylan Villalba, explain detections and filter candidate nodules
 - Reached 88.0% CPM on a slice-level 20% test split (sensitivity averaged from 1/8 to 8 false positives per slice): 87.3% for nodules under 8 mm and 89.5% for nodules over 8 mm
-- 🔄 Rebuilt it in the open with a stricter, scan-level evaluation: **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)** (74.7% CPM per scan, 95% CI 69.0–80.1%)
+- 🔄 Rebuilt it in the open with a stricter, scan-level evaluation: **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)** (86.1% CPM per scan with a 2.5D input, 95% CI 80.2–92.0%)
 
 ### 🛠️ Tech stack
 
