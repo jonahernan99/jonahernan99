@@ -26,6 +26,7 @@ to LLM-powered features, with a focus on clean, tested, production-ready code.
 
 - **[toronto-tech-job-market](https://github.com/jonahernan99/toronto-tech-job-market)**: SQL (DuckDB) analysis of a year of official Job Bank postings, 601,330 rows covering who is hiring in tech in Toronto and what they pay, with a [live dashboard](https://jonahernan99.github.io/toronto-tech-job-market/)
 - **[lung-nodule-detection](https://github.com/jonahernan99/lung-nodule-detection)**: reimplementation of my thesis with scan-level evaluation: 86.1% CPM on 88 held-out LUNA16 scans with a 2.5D input, up from 74.7% with single slices
+- **[noc-rag-assistant](https://github.com/jonahernan99/noc-rag-assistant)**: retrieval-augmented question answering over Canada's National Occupational Classification, measuring retrieval against real job postings before generating cited answers (in progress)
 - **[telco-churn-prediction](https://github.com/jonahernan99/telco-churn-prediction)**: churn models in scikit-learn (0.848 ROC AUC), with leakage removed and a cost analysis that picks the model from what a kept customer is worth; a revised group project from my master's
 
 ### 🔬 Research
